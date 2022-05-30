@@ -1,0 +1,61 @@
+
+
+*{ margin:0;padding:0; border-spacing:border-box; font-family: 'Roboto Condensed', sans-serif; }
+
+.carousel-inner img {
+    width: 100%;
+    height: 85vh;
+  }
+
+  .aboutimg{
+    width: 100%;
+    height: 250px !important;
+  }
+
+  .inimg{
+    width:100%;
+    height:250px !important;
+  }
+
+  .imgn{
+    width:100%;
+    height: 70vh;
+  }
+
+  /*covidupdates*/
+
+  div #covidup
+  {
+    margin: 0 0 30px 0;
+    font-family: 'Lato', sans-serif !important;
+  }
+  .corona_update h1{font-size: 2rem;text-align: center}
+
+  .row-flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .content {
+    height: 100%;
+    padding: 20px 20px 10px;
+
+  }
+
+  .count-style{
+    display: inline !important;
+  }
+  .count-style p{
+      text-align: center;
+  }
+  
+  html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+
+  #tbval
+    {
+      max-width: 100%;
+      overflow-x: hidden;
+    }
+  
